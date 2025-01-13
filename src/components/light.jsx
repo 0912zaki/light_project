@@ -1,5 +1,5 @@
-import lightON from ".//assets/Nal.png"
-import lightOff from ".//assets/Laamp.png"
+import lightON from "../assets/Nal.png"
+import lightOff from "../assets/Laamp.png"
 import { useState } from "react";
 
 const Light = () => {
